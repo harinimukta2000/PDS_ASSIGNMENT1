@@ -1,0 +1,6 @@
+1.I used "HeatMap" to find the correlation between Continuous 
+2.Compared the reading_score between male and female using "Pie Chart"
+3.Compared Parental Education with their score and also used how it is compared with how if test score is affected .
+4.Scatter plot between Reading score and Writing Score (Generally it is used for Continuous Variables so I used this .
+5.Barplot between female and Male
+
